@@ -1,1 +1,3 @@
-file: venv/ .vscode/
+venv/
+.pytest_cache/
+build/
